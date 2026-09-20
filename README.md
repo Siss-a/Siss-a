@@ -1,4 +1,10 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-AQUI&color=blue&style=flat-square" alt="Visitas" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Explorando_o_GitHub-blueviolet?style=for-the-badge&logo=github" alt="Status" />
+</p>
 
 <!--
 **Siss-a/Siss-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
