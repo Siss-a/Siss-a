@@ -1,4 +1,5 @@
-> Hey there 👋 
+> Hey there 👋
+
 I'm Larissa, Full Stack Developer based in Brazil 🇧🇷
 
 I design and build products from end to end. I'm currently expanding my knowledge on React, Next.js and Tailwind CSS by building projects for my Github portfolio. 
